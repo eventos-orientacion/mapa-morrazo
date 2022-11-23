@@ -11,3 +11,5 @@ Ver zona usada en el archivo archivo preview.png
 Editar mapa con [Mapper](https://www.openorienteering.org/)
 
 Incluye el mapa de MTBO del [monte de Coruxo](https://raw.githubusercontent.com/eventos-orientacion/mapa-morrazo/main/TrazadoCoruxo.png).
+
+![Trazado MTBO Coruxo](https://raw.githubusercontent.com/eventos-orientacion/mapa-morrazo/main/TrazadoCoruxo.png)
