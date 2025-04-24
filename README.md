@@ -10,6 +10,6 @@ Ver zona usada en el archivo archivo preview.png
 
 Editar mapa con [Mapper](https://www.openorienteering.org/)
 
-Incluye el mapa de MTBO del [monte de Coruxo](https://raw.githubusercontent.com/eventos-orientacion/mapa-morrazo/main/TrazadoCoruxo.png).
+Incluye el mapa de MTBO del Monte de Coruxo usado en el [Pontevedraid 2022](https://raw.githubusercontent.com/eventos-orientacion/mapa-morrazo/main/TrazadoCoruxo.png) y la mtbo del Monte Mauxo de 2024.
 
 ![Trazado MTBO Coruxo](https://raw.githubusercontent.com/eventos-orientacion/mapa-morrazo/main/TrazadoCoruxo.png)
